@@ -1,0 +1,69 @@
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe.config
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.pdb
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.AssemblyReference.cache
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Properties.Resources.resources
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.GenerateResource.cache
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.exe
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.pdb
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form1.resources
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form2.resources
+C:\Users\Vaio\Documents\Projeto cor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form3.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe.config
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.pdb
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.AssemblyReference.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.SuggestedBindingRedirects.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form1.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form2.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form3.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Properties.Resources.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.GenerateResource.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.CoreCompileInputs.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.exe
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.pdb
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form4.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe.config
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.pdb
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.AssemblyReference.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.SuggestedBindingRedirects.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form1.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form2.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form3.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form4.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Properties.Resources.resources
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.GenerateResource.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.CoreCompileInputs.cache
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.exe
+C:\Users\allana\Downloads\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.pdb
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe.config
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.pdb
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.AssemblyReference.cache
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form1.resources
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form2.resources
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form3.resources
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form4.resources
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Properties.Resources.resources
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.GenerateResource.cache
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.CoreCompileInputs.cache
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.exe
+C:\Users\JoaoMarcelo\Desktop\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.pdb
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe.config
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.exe
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\bin\Debug\ProjetoCor.pdb
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.AssemblyReference.cache
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.SuggestedBindingRedirects.cache
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form1.resources
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form2.resources
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form3.resources
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Form4.resources
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.Properties.Resources.resources
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.GenerateResource.cache
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.csproj.CoreCompileInputs.cache
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.exe
+C:\Users\allana\Downloads\ProjetoCoor\ProjetoCor\ProjetoCor\ProjetoCor\ProjetoCor\obj\Debug\ProjetoCor.pdb
